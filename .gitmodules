@@ -1,0 +1,3 @@
+[submodule "deps/corrosion"]
+	path = deps/corrosion
+	url = https://github.com/corrosion-rs/corrosion
